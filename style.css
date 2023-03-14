@@ -1,0 +1,99 @@
+body {
+    background-color: #42474ece;
+    
+}
+
+h1{
+    color: white;
+    align-items: center;
+    text-align: center;
+}
+
+header{
+    margin: auto;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+#A{
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+#A:hover {
+    color: black;
+    
+}
+#soma{
+    background-color: #cee7f1;
+}
+
+.buttons{
+    margin: 20px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+input{
+    font-size: 30px;
+    outline: none;
+    margin-bottom: 0.5rem;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1.5rem;
+
+}
+
+.btsoma{
+    background-color: #b5e4f7;
+    margin: 10px;
+    border: none;
+    width: 60px;
+    height: 60px;
+    padding: 0.5rem 0;
+    margin: 1px;
+    font-size: 2rem;
+    border-radius: 0.5rem;
+}
+
+.btsub{
+    background-color: #b5e4f7;
+    margin: 10px;
+    border: none;
+    width: 60px;
+    height: 60px;
+    padding: 0.5rem 0;
+    margin: 1px;
+    font-size: 2rem;
+    border-radius: 0.5rem;
+}
+
+.btmult{
+    background-color: #b5e4f7;
+    margin: 10px;
+    border: none;
+    width: 60px;
+    height: 60px;
+    padding: 0.5rem 0;
+    margin: 1px;
+    font-size: 2rem;
+    border-radius: 0.5rem;
+}
+
+.btdivi{
+    background-color: #b5e4f7;
+    margin: 10px;
+    border: none;
+    width: 60px;
+    height: 60px;
+    padding: 0.5rem 0;
+    margin: 1px;
+    font-size: 2rem;
+    border-radius: 0.5rem;
+}
